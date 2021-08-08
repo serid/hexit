@@ -1,0 +1,5 @@
+Complete:
+1) unique_ptr<Font, deleter>, unique_ptr<Window, deleter>, unique_ptr<Renderer, deleter> ...
+2) unordered_map<tuple<string, SDL_Color>, Sprite>
+3) Rewire png_to_png to return pixels
+4) Link SDL_ttf.obj and libfreetype-6.lib into SDL_ttf.lib

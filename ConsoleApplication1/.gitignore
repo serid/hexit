@@ -1,0 +1,17 @@
+/SDL2-2.0.14/
+/SDL2_ttf-2.0.15/
+/zlib-1.2.11/
+/lpng1637/
+
+/SDL_build/
+/SDL_ttf_build/
+/libpng_build/
+
+/x64/
+/zips/
+
+zlib1.dll
+SDL2.dll
+SDL2_ttf.dll
+libfreetype-6.dll
+libpng16.dll
