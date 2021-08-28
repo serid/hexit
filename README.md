@@ -12,3 +12,5 @@ This will probably produce SDL_ttf.obj that has to be manually linked with libfr
 `$ lib.exe .\SDL_ttf_build\lib\SDL_ttf.obj .\SDL_ttf_build\lib\libfreetype-6.lib /OUT:.\SDL_ttf_build\lib\MySDL_ttf.lib`
 
 MySDL_ttf.lib would be your static SDL_ttf library.
+
+![demo gif](https://github.com/serid/hexit/blob/5ddedb9d5d64717aebd8049a8f1c6b04ed35f6ad/demo.gif)
